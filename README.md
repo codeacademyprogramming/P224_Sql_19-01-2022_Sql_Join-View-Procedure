@@ -1,0 +1,1 @@
+# P224_Sql_19-01-2022_Sql_Join-View-Procedure
